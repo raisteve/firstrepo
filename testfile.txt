@@ -2,3 +2,4 @@ new test file
 editting completed
 this is a first change
 this is a second change
+this is a third test.
